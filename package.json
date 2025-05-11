@@ -18,6 +18,9 @@
   ],
   "author": "Dmitry Ovsyanko",
   "license": "MIT",
+  "peerDependencies": {
+    "events-to-winston": "^1.0.3"
+  },
   "dependencies": {
     "cookiejar": "^2.1.4"
   },
