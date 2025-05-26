@@ -19,13 +19,15 @@
   "author": "Dmitry Ovsyanko",
   "license": "MIT",
   "peerDependencies": {
+    "content-disposition": "^0.5.4",
     "events-to-winston": "^1.0.5",
+    "mime-types": "^3.0.1",
     "tin-cookie-jar": "^1.0.0"
-  },
-  "dependencies": {
   },
   "bugs": {
     "url": "https://github.com/do-/node-cookie-session-client/issues"
   },
-  "homepage": "https://github.com/do-/node-cookie-session-client#readme"
+  "homepage": "https://github.com/do-/node-cookie-session-client#readme",
+  "dependencies": {
+  }
 }
