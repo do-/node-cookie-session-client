@@ -22,7 +22,8 @@
     "content-disposition": "^0.5.4",
     "events-to-winston": "^1.0.5",
     "mime-types": "^3.0.1",
-    "tin-cookie-jar": "^1.0.0"
+    "tin-cookie-jar": "^1.0.0",
+    "undici": "^7.10.0"
   },
   "bugs": {
     "url": "https://github.com/do-/node-cookie-session-client/issues"
